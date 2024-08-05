@@ -2,12 +2,11 @@
 <div align="center">
 <h1 align="center">Hola, soy <a>Mateo</a> 👋</h1>
 </div>
-<img src="![image](https://github.com/user-attachments/assets/77e45880-43f9-43f2-8e63-1340ef806949)
+<img src="![image](https://github.com/(https://www.google.com/imgres?q=software%20developer&imgurl=https%3A%2F%2Fd3kqdc25i4tl0t.cloudfront.net%2Farticles%2Fcontent%2F543_378726_tech.hero.jpg&imgrefurl=https%3A%2F%2Ftopresume.com%2Fcareer-advice%2Fsoftware-developer-job-description&docid=dith2Nlw22oU6M&tbnid=JE-nVCAxEsyw5M&vet=12ahUKEwi8_IDsht-HAxU9rJUCHa0OGJUQM3oECGIQAA..i&w=1600&h=900&hcb=2&ved=2ahUKEwi8_IDsht-HAxU9rJUCHa0OGJUQM3oECGIQAA))
 ">
 
 
 [![GitHub followers](https://img.shields.io/github/followers/santagadamateo?style=social)](https://github.com/santagadamateo)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## Sobre mi
 - ✏️ Python/ Arduino/ c# (learning more)
