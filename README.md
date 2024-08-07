@@ -9,7 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/santagadamateo?style=social)](https://github.com/santagadamateo)
 
 ## Sobre mi
-- ✏️ Python/ Arduino/ c# (learning more)
+- ✏️ Python/Arduino/c#/c++ (learning more)
 - 📗 UBA / Computer science engineering
 - 🧑‍🏫 Spanish/English
 <br>                                                                                      
