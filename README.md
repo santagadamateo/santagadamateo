@@ -19,10 +19,11 @@
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/santagadamateo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santagadamateo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santagadamateo&layout=compact&langs_count=8&theme=algolia"/>
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/santagadamateo/santagadamateo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santagadamateo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-</p>
+<a href="https://github.com/santagadamateo/santagadamateo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santagadamateo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
