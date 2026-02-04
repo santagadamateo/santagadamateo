@@ -1,29 +1,58 @@
+# Hi, I'm Mateo Santagada 👋
 
-<div align="center">
-<h1 align="center">Hola, soy <a>Mateo</a> 👋</h1>
-</div>
-<img src="(https://www.google.com/imgresq=software%20developer&imgurl=https%3A%2F%2Fd3kqdc25i4tl0t.cloudfront.net%2Farticles%2Fcontent%2F543_378726_tech.hero.jpg&imgrefurl=https%3A%2F%2Ftopresume.com%2Fcareer-advice%2Fsoftware-developer-job-description&docid=dith2Nlw22oU6M&tbnid=JE-nVCAxEsyw5M&vet=12ahUKEwi8_IDsht-HAxU9rJUCHa0OGJUQM3oECGIQAA..i&w=1600&h=900&hcb=2&ved=2ahUKEwi8_IDsht-HAxU9rJUCHa0OGJUQM3oECGIQAA))
-">
+Computer Engineering student at the University of Buenos Aires (UBA) with a strong interest in software development.
+I enjoy building academic and personal projects focused on backend development, frontend interfaces and good development practices.
 
+---
 
-[![GitHub followers](https://img.shields.io/github/followers/santagadamateo?style=social)](https://github.com/santagadamateo)
+## 🎓 Education
+- **Computer Engineering** – University of Buenos Aires (UBA)  
+  *2024 – Present*
+- **High School Diploma (Natural Sciences)** – Escuela Secundaria Naciones Unidas  
+  *Graduated 2023*
 
-## Sobre mi
-- ✏️ Python/Arduino/c#/c++ (learning more)
-- 📗 UBA / Computer science engineering
-- 🧑‍🏫 Spanish/English
-<br>                                                                                      
-                                                                                    
-</td>  
-</table>                                                                                 
-</div>
-<br>
+---
 
-## &#x1f4c8; GitHub Stats
+## 💻 Technical Skills
+- **Languages:** Python, C, C++, Bash, JavaScript
+- **Backend:** FastAPI, REST APIs, SQLite
+- **Frontend:** HTML, CSS, Svelte, SvelteKit
+- **Tools:** Git, GitHub, Linux
+- **Concepts:** Databases, Version Control, Teamwork
 
-<a href="https://github.com/santagadamateo/santagadamateo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santagadamateo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/santagadamateo/santagadamateo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santagadamateo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+---
+
+## 🚀 Featured Projects
+
+### 🔹 PokeScript
+Shell scripts to process Pokémon CSV datasets using Linux command-line tools.  
+**Tech:** Bash, GNU coreutils  
+🔗 https://github.com/santagadamateo/pokescript
+
+### 🔹 IntroDex – Backend
+REST API for a Pokémon management system.  
+**Tech:** Python, FastAPI, SQLite  
+🔗 https://github.com/santagadamateo/introdex-backend
+
+### 🔹 IntroDex – Frontend
+Web frontend that consumes the IntroDex API.  
+**Tech:** SvelteKit, JavaScript  
+🔗 https://github.com/santagadamateo/introdex-frontend
+
+---
+
+## 🌍 Languages
+- **Spanish:** Native
+- **English:** Intermediate (B1)
+
+---
+
+## 📫 Contact
+- 📧 Email: mateosantagada@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mateo-santagada
+
+---
+
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santagadamateo&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=santagadamateo&show_icons=true)
