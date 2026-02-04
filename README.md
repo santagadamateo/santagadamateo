@@ -51,10 +51,3 @@ Web frontend that consumes the IntroDex API.
 - 📧 Email: mateosantagada@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/mateo-santagada
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=santagadamateo&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santagadamateo&layout=compact)
